@@ -56,8 +56,3 @@ Watch my video tutorials:
 4. [My Fish shell workflow for coding](https://www.youtube.com/watch?v=KKxhf50FIPI)
 5. [How to set up PowerShell prompt with Oh My Posh on Windows 11](https://www.youtube.com/watch?v=5-aK2_WwrmM)
 
-## About me
-
-- [Twitter @inkdrop_app](https://twitter.com/inkdrop_app)
-- [Blog](https://blog.inkdrop.app/)
-- [My product: Inkdrop - Markdown note-taking app](https://www.inkdrop.app/)
