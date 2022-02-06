@@ -22,10 +22,16 @@ if has("nvim")
   Plug 'nvim-treesitter/nvim-treesitter', { 'do': ':TSUpdate' }
   Plug 'kyazdani42/nvim-web-devicons'
   Plug 'onsails/lspkind-nvim'
+ 
+  " telescope
   Plug 'nvim-lua/popup.nvim'
   Plug 'nvim-lua/plenary.nvim'
   Plug 'nvim-telescope/telescope.nvim'
+
   Plug 'windwp/nvim-autopairs'
+  Plug 'kdheepak/lazygit.nvim'
+  Plug 'nvim-lua/plenary.nvim'
+  Plug 'lewis6991/gitsigns.nvim'
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }
